@@ -7,12 +7,12 @@ A simple temperature convertor Java Application
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://github.com/losier/Temperature-Convertor/blob/master/Data/Images/Screenshot.png)
 
 
 ## Demo
 
-Insert gif or link to demo
+![Demo](https://github.com/losier/Temperature-Convertor/blob/master/Data/GIF/Demo.gif)
 
 
 ## Clone the project
