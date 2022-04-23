@@ -1,6 +1,4 @@
-
-![Logo]()
-
+<img src="https://github.com/losier/Temperature-Convertor/blob/master/Data/Images/logo.png" width="600" height="200" align="center" />
 
 # Temperature Convertor
 
@@ -35,7 +33,7 @@ Go to the project directory
 
 ## Jar File
 
-[Click here to get redirect to jar file]()
+[Click here to get redirect to jar file](https://github.com/losier/Temperature-Convertor/blob/master/out/artifacts/Temperature_Converter_jar/Temperature%20Converter.jar)
 
 ## License
 
